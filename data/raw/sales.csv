@@ -1,0 +1,13 @@
+order_id,date,customer,category,amount
+SO-1001,2026-01-03,Ana Perez,Electronics,125.50
+SO-1002,2026-01-08,Bruno Diaz,Home,89.99
+SO-1003,2026-01-15,Ana Perez,Books,35.00
+SO-1004,2026-01-21,Carla Ruiz,Sports,210.00
+SO-1005,2026-02-02,Diego Lopez,Electronics,310.25
+SO-1006,2026-02-10,Elena Torres,Home,75.00
+SO-1007,2026-02-14,Bruno Diaz,Books,145.75
+SO-1008,2026-02-18,Carla Ruiz,Sports,99.99
+SO-1009,2026-02-22,Ana Perez,Home,-12.00
+SO-1010,invalid-date,Diego Lopez,Electronics,50.00
+SO-1002,2026-02-25,Bruno Diaz,Home,90.00
+SO-1011,2026-02-28,,Books,25.00
